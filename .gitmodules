@@ -1,0 +1,3 @@
+[submodule "aspnetmvc-simple-app"]
+	path = aspnetmvc-simple-app
+	url = https://github.com/Magicianred/aspnetmvc-simple-app.git
